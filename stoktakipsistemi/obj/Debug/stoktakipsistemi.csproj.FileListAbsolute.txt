@@ -1,0 +1,13 @@
+C:\Users\hasan.tanriverdi\source\repos\stoktakipsistemi\stoktakipsistemi\obj\Debug\stoktakipsistemi.csproj.AssemblyReference.cache
+C:\Users\hasan.tanriverdi\source\repos\stoktakipsistemi\stoktakipsistemi\obj\Debug\stoktakipsistemi.Properties.Resources.resources
+C:\Users\hasan.tanriverdi\source\repos\stoktakipsistemi\stoktakipsistemi\obj\Debug\stoktakipsistemi.csproj.GenerateResource.cache
+C:\Users\hasan.tanriverdi\source\repos\stoktakipsistemi\stoktakipsistemi\obj\Debug\stoktakipsistemi.csproj.CoreCompileInputs.cache
+C:\Users\hasan.tanriverdi\source\repos\stoktakipsistemi\stoktakipsistemi\obj\Debug\stoktakipsistemi.giriss.resources
+C:\Users\hasan.tanriverdi\source\repos\stoktakipsistemi\stoktakipsistemi\bin\Debug\stoktakipsistemi.exe.config
+C:\Users\hasan.tanriverdi\source\repos\stoktakipsistemi\stoktakipsistemi\bin\Debug\stoktakipsistemi.exe
+C:\Users\hasan.tanriverdi\source\repos\stoktakipsistemi\stoktakipsistemi\bin\Debug\stoktakipsistemi.pdb
+C:\Users\hasan.tanriverdi\source\repos\stoktakipsistemi\stoktakipsistemi\obj\Debug\stoktakipsistemi.anasayfa.resources
+C:\Users\hasan.tanriverdi\source\repos\stoktakipsistemi\stoktakipsistemi\obj\Debug\stoktakipsistemi.exe
+C:\Users\hasan.tanriverdi\source\repos\stoktakipsistemi\stoktakipsistemi\obj\Debug\stoktakipsistemi.pdb
+C:\Users\hasan.tanriverdi\source\repos\stoktakipsistemi\stoktakipsistemi\obj\Debug\stoktakipsistemi.urunekle.resources
+C:\Users\hasan.tanriverdi\source\repos\stoktakipsistemi\stoktakipsistemi\obj\Debug\stoktakipsistemi.urunguncelle.resources
